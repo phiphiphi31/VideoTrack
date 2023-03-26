@@ -1,8 +1,8 @@
 # VideoTrack
 
-### VideoTrack: Learning to Track Objects via Video Transformer
+## VideoTrack: Learning to Track Objects via Video Transformer
 
-## :star: Our paper is accepted by CVPR2023 !
+### :star: Our paper is accepted by CVPR2023 !
 
 ```bibtex
 Fei Xie, Lei Chu, Jiahao Li, Yan Lu and Chao Ma 
