@@ -12,9 +12,16 @@ encode temporal contexts into the spatial features through a neat feedforward vi
 # Our paper is accepted by CVPR2023 !
 
 @inproceedings{
-anonymous2023videotrack, \\
-title={VideoTrack: Learning to Track Objects via Video Transformer},\\
-author={Fei Xie, Lei Chu, Jiahao Li, Yan Lu, Chao Ma },\\
-booktitle={Conference on Computer Vision and Pattern Recognition 2023},\\
+
+Xie2023videotrack, 
+
+title={VideoTrack: Learning to Track Objects via Video Transformer},
+
+author={Fei Xie, Lei Chu, Jiahao Li, Yan Lu, Chao Ma },
+
+booktitle={Conference on Computer Vision and Pattern Recognition 2023},
+
 year={2023},
+
 }
+
