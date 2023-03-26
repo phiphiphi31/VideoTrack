@@ -12,17 +12,16 @@ Existing Siamese tracking methods, which are built onpair-wise matching between 
 encode temporal contexts into the spatial features through a neat feedforward video model. Specifically, we adapt the standard video transformer architecture to visual tracking by enabling spatiotemporal feature learning directly from frame-level patch sequences. To better adapt to the tracking task, we carefully blend the spatiotemporal information in the video clips through sequential multi-branch triplet blocks, which formulates a video transformer backbone. Our experimental study compares different model variants, such as tokenization strategies, hierarchical structures, and video attention schemes. Then, we propose a disentangled dual-template mechanism that decouples static and dynamic appearance clues over time, and reduces temporal redundancy in video frames. Extensive experiments show that our method, named as VideoTrack, achieves state-of-the-art results while running in real-time.
 
 
+
+## Citing VideoTrack
+If you find VideoTrack useful in your research, please consider citing:
+```bibtex
 @inproceedings{
-
 Xie2023videotrack, 
-
 title={VideoTrack: Learning to Track Objects via Video Transformer},
-
 author={Fei Xie, Lei Chu, Jiahao Li, Yan Lu, Chao Ma },
-
 booktitle={Conference on Computer Vision and Pattern Recognition 2023},
-
 year={2023},
-
 }
+```
 
