@@ -2,7 +2,7 @@
 
 # VideoTrack: Learning to Track Objects via Video Transformer
 
-## Authors: Fei Xie, Lei Chu, Jiahao Li, Yan Lu and Chao Ma 
+### Fei Xie, Lei Chu, Jiahao Li, Yan Lu and Chao Ma 
 
 ### This work was done when Fei Xie was an intern at Microsoft Research Asia
 
