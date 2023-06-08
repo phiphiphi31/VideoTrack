@@ -23,7 +23,7 @@ If you find VideoTrack useful in your research, please consider citing:
 Xie2023videotrack, 
 title={VideoTrack: Learning to Track Objects via Video Transformer},
 author={Fei Xie, Lei Chu, Jiahao Li, Yan Lu, Chao Ma },
-booktitle={Conference on Computer Vision and Pattern Recognition 2023},
+booktitle={Conference on Computer Vision and Pattern Recognition},
 year={2023},
 }
 ```
