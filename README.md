@@ -9,6 +9,7 @@ Fei Xie, Lei Chu, Jiahao Li, Yan Lu and Chao Ma
 
 This work was done when Fei Xie was an intern at Microsoft Research Asia
 ```
+## Highlights
 
 ![compare](figs/compare.png)
 Comparing to the pair-wise matching pipeline in
