@@ -19,12 +19,13 @@ encode temporal contexts into the spatial features through a neat feedforward vi
 ## Citing VideoTrack
 If you find VideoTrack useful in your research, please consider citing:
 ```bibtex
-@inproceedings{
-Xie2023videotrack, 
-title={VideoTrack: Learning to Track Objects via Video Transformer},
-author={Fei Xie, Lei Chu, Jiahao Li, Yan Lu, Chao Ma },
-booktitle={Conference on Computer Vision and Pattern Recognition},
-year={2023},
+@inproceedings{xie2023videotrack,
+  title={VideoTrack: Learning To Track Objects via Video Transformer},
+  author={Xie, Fei and Chu, Lei and Li, Jiahao and Lu, Yan and Ma, Chao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={22826--22835},
+  year={2023}
 }
+
 ```
 
