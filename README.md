@@ -2,14 +2,13 @@
 
 ## VideoTrack: Learning to Track Objects via Video Transformer
 
-### :star: Our paper is accepted by CVPR2023 !
+### :star: Our paper is accepted by CVPR2023 ! [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.pdf) and [demo video](https://www.youtube.com/watch?v=v-SvFZ0FrF8&t=12s)
 
 ```bibtex
 Fei Xie, Lei Chu, Jiahao Li, Yan Lu and Chao Ma 
 
 This work was done when Fei Xie was an intern at Microsoft Research Asia
 ```
-### [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.pdf) and [demo videos](https://www.youtube.com/watch?v=v-SvFZ0FrF8&t=12s)
 
 ## Highlights
 
