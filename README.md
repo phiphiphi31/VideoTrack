@@ -12,7 +12,7 @@ This work was done when Fei Xie was an intern at Microsoft Research Asia
 ### paper and demo videos 
 paper [here]([https://arxiv.org/abs/2203.01666](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.pdf)) 
 
-video [here]([https://arxiv.org/abs/2203.01666](https://www.youtube.com/watch?v=v-SvFZ0FrF8&t=12s)) 
+video [here]([[https://www.youtube.com/watch?v=v-SvFZ0FrF8&t=12s]) 
 
 
 ## Highlights
