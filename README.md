@@ -9,7 +9,7 @@ Fei Xie, Lei Chu, Jiahao Li, Yan Lu and Chao Ma
 
 This work was done when Fei Xie was an intern at Microsoft Research Asia
 ```
-### paper and demo videos 
+### paper (https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.pdf) and demo videos 
 
 paper [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.pdf)  video [here](https://www.youtube.com/watch?v=v-SvFZ0FrF8&t=12s) 
  
